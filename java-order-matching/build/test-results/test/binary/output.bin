@@ -1,0 +1,5 @@
+New: Order: BTC-USD(1.50, BUY)
+XOrder added to book: Order{instrument='BTC-USD', price=50000.0, quantity=1.5, side=BUY}
+ New: Order: BTC-USD(1.50, SELL)
+-Found match for BTC-USD 1.5 with BTC-USD 1.5
+ 
